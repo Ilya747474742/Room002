@@ -11,7 +11,6 @@ public class Plus : MonoBehaviour
     public void Plus0() 
     {
 
-
         if (gm.Gold >= 100)
         {
             gm.Gold -= 100;
